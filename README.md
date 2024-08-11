@@ -37,17 +37,29 @@ This project is a frontend application developed using React.js and styled with 
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/palaksinghalaggarwal/your-repository.git
+   git clone https://github.com/palaksinghalaggarwal/business-website.git
 
-    cd your-repository
+2. **Navigate to the project directory:**
 
+   ```bash
+    cd business-website
+   
+3. **Install dependencies:**  
+
+    ```bash
     npm install 
 
+4. **Start the development server:**  
+
+    ```bash
     npm start
 
+5. **Open the application in your browser at:**  
+
+    ```bash
     http://localhost:3000
 
-    ## Usage
+## Usage
 
 - Browse through the different sections to explore the offerings.
 - Customize the design or content as per your requirements.
