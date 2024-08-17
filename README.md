@@ -1,4 +1,4 @@
-# A Business Website using React JS & nested CSS selector
+# Mikon - A Business Website using React JS & nested CSS selector
 
 ## Introduction
 
@@ -37,12 +37,12 @@ This project is a frontend application developed using React.js and styled with 
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/palaksinghalaggarwal/business-website.git
+   git clone https://github.com/palaksinghalaggarwal/Mikon.git
 
 2. **Navigate to the project directory:**
 
    ```bash
-    cd business-website
+    cd Mikon
    
 3. **Install dependencies:**  
 
